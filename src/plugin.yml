@@ -1,0 +1,7 @@
+name: Staff
+main: com.planetcraftn.Main
+version: 1
+author: ArielG
+commands:
+    congelar:
+       aliases: [ss, freeze, frz]
